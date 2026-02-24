@@ -170,10 +170,10 @@ na verdade é o servidor rejeitando conexões rapidamente.
 
 ## Arquivos de Evidência
 
-| Cenário | Markdown | HTML | CSVs |
-|---------|----------|------|------|
-| 10 usuários | [report_10u.md](report_10u.md) | [report_10u.html](../html/report_10u.html) | [results/10u/](../../results/10u/) |
-| 20 usuários | [report_20u.md](report_20u.md) | [report_20u.html](../html/report_20u.html) | [results/20u/](../../results/20u/) |
-| 30 usuários | [report_30u.md](report_30u.md) | [report_30u.html](../html/report_30u.html) | [results/30u/](../../results/30u/) |
-| 50 usuários | [report_50u.md](report_50u.md) | [report_50u.html](../html/report_50u.html) | [results/50u/](../../results/50u/) |
-| 100 usuários | [report_100u.md](report_100u.md) | [report_100u.html](../html/report_100u.html) | [results/100u/](../../results/100u/) |
+| Cenário | Markdown | HTML (GitHub Pages) | CSVs |
+|---------|----------|---------------------|------|
+| 10 usuários | [report_10u.md](report_10u.md) | [report_10u.html](https://leonardosouza.github.io/doazap-stress-test/reports/html/report_10u.html) | [results/10u/](../../results/10u/) |
+| 20 usuários | [report_20u.md](report_20u.md) | [report_20u.html](https://leonardosouza.github.io/doazap-stress-test/reports/html/report_20u.html) | [results/20u/](../../results/20u/) |
+| 30 usuários | [report_30u.md](report_30u.md) | [report_30u.html](https://leonardosouza.github.io/doazap-stress-test/reports/html/report_30u.html) | [results/30u/](../../results/30u/) |
+| 50 usuários | [report_50u.md](report_50u.md) | [report_50u.html](https://leonardosouza.github.io/doazap-stress-test/reports/html/report_50u.html) | [results/50u/](../../results/50u/) |
+| 100 usuários | [report_100u.md](report_100u.md) | [report_100u.html](https://leonardosouza.github.io/doazap-stress-test/reports/html/report_100u.html) | [results/100u/](../../results/100u/) |
