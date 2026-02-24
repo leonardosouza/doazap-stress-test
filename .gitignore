@@ -1,0 +1,12 @@
+# Credenciais
+.env
+
+# Relatórios gerados (não versionados)
+reports/html/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
